@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=%20KittizZ%20&fontSize=80&textBg=true&animation=fadeIn)
 
-Hi, I'm Kitti. I'm Rich Big Nick 
-
+Hi, I'm Kitti.
 - :mortar_board: College student
 - 🌱 Learning Web full stack
 - 🤔 Looking for open source to contribute
